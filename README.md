@@ -1,2 +1,2 @@
 # My-Test-PR
-Pull Requests Practical
+This is a test repo for the practicals
